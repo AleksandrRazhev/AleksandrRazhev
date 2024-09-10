@@ -1,4 +1,12 @@
-### Hi there 👋
+### Front-end developer from Saint Petersburg since 2021. Main tools React, Redux, and TypeScript. Before front-end development, spent 15 years designing the construction of industrial utility networks. I am also interested in Linux and backend development.
+
+### My GitHub Stats
+<div id="My GitHub Stats" align="center">  
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AleksandrRazhev&theme=algolia" alt="profile-details"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AleksandrRazhev&theme=algolia" alt="repos-per-language"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AleksandrRazhev&theme=algolia" alt="most-commit-language"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AleksandrRazhev&theme=algolia" alt="stats"/>
+</div>
 
 <!--
 **AleksandrRazhev/AleksandrRazhev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
